@@ -1,0 +1,89 @@
+# Servicios de Coderic Business
+
+# Productos Prodaric
+prodaric_products:
+  - name: "Prodaric CRM"
+    url: "/prodaric/crm"
+    description: "Customer Relationship Management - Gestión de relaciones con el cliente"
+    icon: "crm"
+    category: "business"
+  
+  - name: "Prodaric ERP"
+    url: "/prodaric/erp"
+    description: "Enterprise Resource Planning - Planificación de recursos empresariales"
+    icon: "erp"
+    category: "business"
+  
+  - name: "Prodaric HRM"
+    url: "/prodaric/hrm"
+    description: "Human Resource Management - Gestión de recursos humanos"
+    icon: "hrm"
+    category: "business"
+  
+  - name: "Prodaric CCR"
+    url: "/prodaric/ccr"
+    description: "Continuity of Care Record - Continuidad del Registro del Cuidado"
+    icon: "ccr"
+    category: "healthcare"
+  
+  - name: "Prodaric LCM"
+    url: "/prodaric/lcm"
+    description: "Learning Content Management - Gestión de contenidos de aprendizaje"
+    icon: "lcm"
+    category: "education"
+  
+  - name: "Prodaric CMS"
+    url: "/prodaric/cms"
+    description: "Content Management System - Sistema de gestión de contenidos"
+    icon: "cms"
+    category: "content"
+
+# Sistemas Empresariales
+enterprise_systems:
+  - name: "SCM"
+    url: "/scm"
+    description: "Administración de la cadena de suministros (Supply Chain Management)"
+    icon: "supply-chain"
+  
+  - name: "Sistemas de Contabilidad"
+    url: "/accounting-systems"
+    description: "Sistemas contables empresariales completos"
+    icon: "accounting"
+  
+  - name: "Sistemas Administrativos"
+    url: "/administrative-systems"
+    description: "Gestión administrativa integral para empresas"
+    icon: "admin"
+  
+  - name: "Sistemas de Control de Acceso"
+    url: "/access-control-systems"
+    description: "Control de acceso y seguridad empresarial"
+    icon: "access-control"
+  
+  - name: "Sistemas de Ventas en Línea"
+    url: "/ecommerce"
+    description: "Plataformas de comercio electrónico y ventas"
+    icon: "ecommerce"
+  
+  - name: "Sistemas de Pagos en Línea"
+    url: "/payment-systems"
+    description: "Procesamiento de pagos y pasarelas de pago"
+    icon: "payments"
+
+# Otros Sistemas
+other_systems:
+  - name: "Sistemas de Monitoreo de Flota GPS"
+    url: "/fleet-management"
+    description: "Seguimiento y gestión de flotas vehiculares"
+    icon: "gps"
+  
+  - name: "Sistemas de Historias Clínicas"
+    url: "/medical-records"
+    description: "Gestión de historias clínicas y registros médicos"
+    icon: "medical-records"
+  
+  - name: "Sistemas de Cámaras de Seguridad"
+    url: "/security-cameras"
+    description: "Vigilancia y seguridad mediante sistemas de cámaras"
+    icon: "security-cameras"
+
