@@ -14,8 +14,6 @@ logo: "/images/logo.svg"
 
 # Navigation with flyout menu support
 navigation:
-  - label: "Inicio"
-    url: "/"
   - label: "Prodaric"
     url: "/#prodaric"
     has_flyout: true
